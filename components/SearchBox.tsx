@@ -31,7 +31,7 @@ export default function SearchBox({
         className="mt-5 w-full rounded-xl bg-green-700 py-4 text-lg font-semibold text-white transition hover:bg-green-800"
         onClick={onSearch}
       >
-        검색
+        Research
       </button>
     </>
   );
